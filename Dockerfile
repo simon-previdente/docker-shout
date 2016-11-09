@@ -1,4 +1,4 @@
-FROM node:7.0.0
+FROM hypriot/rpi-node:7.0.0
 MAINTAINER Simon Prévidente <simon.previdente@free.fr>
 
 ENV PORT="9000"

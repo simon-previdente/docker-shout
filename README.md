@@ -1,6 +1,6 @@
 # docker-shout
 
-[Shout](http://shout-irc.com), a node irc client/server in the browser, in a container
+[Shout](http://shout-irc.com), a node irc client/server in the browser, in a container for **ARM** !
 
 
 ## Installation
