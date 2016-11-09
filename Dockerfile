@@ -1,5 +1,5 @@
 FROM node:4.2.1-slim
-MAINTAINER Dylan Arbour <dylan.arbour@gmail.com>
+MAINTAINER Simon Prévidente <simon.previdente@free.fr>
 
 ENV PORT="9000"
 ENV PRIVATE="false"
